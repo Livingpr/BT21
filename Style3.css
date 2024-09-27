@@ -1,0 +1,7 @@
+form.form-purchase{display:table;}
+div.form-purchase{display:table-row;}
+label,input{display table-cell;margin bottom:10px;}
+label{padding-left:10px}
+table{font-family:arial,sans-serif;boarder-collapse:seprate;width:100%;}
+td,th{boarder: 10px solid #dddddd;text-align:left;padding:8px;}
+tr:nth-(even){background-colour:#dddddd;}
